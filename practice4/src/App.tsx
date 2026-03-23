@@ -1,8 +1,8 @@
 import './App.css'
-import RegisterFormWithStruct from "./components/RegisterFormWithStruct.tsx";
+import ToDo from "./components/ToDo.tsx";
 
 function App() {
-    return <RegisterFormWithStruct/>
+    return <ToDo/>
 }
 
 export default App
