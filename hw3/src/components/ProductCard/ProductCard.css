@@ -1,0 +1,51 @@
+.product-card {
+    border: 1px solid #cccccc;
+    border-radius: 6px;
+    padding: 16px;
+    margin-bottom: 12px;
+}
+
+.product-card__title {
+    margin: 0 0 8px;
+    font-size: 20px;
+}
+
+.product-card__category {
+    margin: 0 0 8px;
+}
+
+.product-card__price {
+    margin: 0 0 8px;
+}
+
+.product-card__premium {
+    margin: 0 0 8px;
+}
+
+.product-card__top {
+    margin: 0 0 8px;
+}
+
+.product-card__luxury {
+    margin: 0 0 8px;
+}
+
+.product-card__rating {
+    margin: 0 0 8px;
+}
+
+.product-card__status {
+    margin: 0 0 12px;
+}
+
+.product-card__button {
+    padding: 8px 14px;
+    border: 1px solid #999999;
+    background-color: #f5f5f5;
+    cursor: pointer;
+}
+
+.product-card__button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}

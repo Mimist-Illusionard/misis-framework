@@ -1,0 +1,8 @@
+.product-list {
+    padding: 20px;
+}
+
+.product-list__empty {
+    padding: 20px;
+    margin: 0;
+}
